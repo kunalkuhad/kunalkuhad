@@ -20,7 +20,8 @@
 - 📫 How to reach me **kunalkuhar.11@gmail.com**
 
 - ⚡ Fun fact **I enjoy what i am doing**
-![Uploading 362822632-f423798c-1161-4c3b-b4c0-199e6d62c024.png…]()
+
+<img width="957" alt="362822632-f423798c-1161-4c3b-b4c0-199e6d62c024" src="https://github.com/user-attachments/assets/fbe92d8d-ffaf-479b-8152-ecaa3c52fe3a" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
