@@ -1,3 +1,9 @@
+
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/04d28bbb-0ea5-4bd6-84f3-6ad9368038ab)
+![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/e460bbc3-18b0-4dfb-86dd-ad34b1d9a29a)
+
+
+
 <h1 align="center">Hi 👋, I'm KUNAL KUHAD</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
@@ -13,6 +19,7 @@
 - 📫 How to reach me **kunalkuhar.11@gmail.com**
 
 - ⚡ Fun fact **I enjoy what i am doing**
+![Uploading 362822632-f423798c-1161-4c3b-b4c0-199e6d62c024.png…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
